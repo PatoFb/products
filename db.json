@@ -1,14 +1,14 @@
 {
     "products": [
-      { "id": 1, "name": "Product 1", "price": 1500, "quantity": 3, "image": "Image1" },
-      { "id": 2, "name": "Product 2", "price": 2500, "quantity": 3, "image": "Image2" },
-      { "id": 3, "name": "Product 3", "price": 500, "quantity": 3, "image": "Image3" },
-      { "id": 4, "name": "Product 4", "price": 3500, "quantity": 3, "image": "Image4" },
-      { "id": 5, "name": "Product 5", "price": 500, "quantity": 3, "image": "Image5" },
-      { "id": 6, "name": "Product 6", "price": 5000, "quantity": 3, "image": "Image6" },
-      { "id": 7, "name": "Product 7", "price": 1000, "quantity": 3, "image": "Image7" },
-      { "id": 8, "name": "Product 8", "price": 2000, "quantity": 3, "image": "Image8" },
-      { "id": 9, "name": "Product 9", "price": 400, "quantity": 3, "image": "Image9" },
-      { "id": 10, "name": "Product 10", "price": 450, "quantity": 3, "image": "Image10" }
+      { "id": 1, "name": "Backpack", "price": 1500, "quantity": 3, "image": "Image1" },
+      { "id": 2, "name": "Shoes (Color)", "price": 2500, "quantity": 3, "image": "Image2" },
+      { "id": 3, "name": "Shirt (Pink)", "price": 500, "quantity": 3, "image": "Image3" },
+      { "id": 4, "name": "Shirt (White)", "price": 3500, "quantity": 3, "image": "Image4" },
+      { "id": 5, "name": "Shirt (Gray)", "price": 500, "quantity": 3, "image": "Image5" },
+      { "id": 6, "name": "Shoes (Casual)", "price": 5000, "quantity": 3, "image": "Image6" },
+      { "id": 7, "name": "Hat (Black)", "price": 1000, "quantity": 3, "image": "Image7" },
+      { "id": 8, "name": "Set (Pink)", "price": 2000, "quantity": 3, "image": "Image8" },
+      { "id": 9, "name": "Shoes (Black)", "price": 400, "quantity": 3, "image": "Image9" },
+      { "id": 10, "name": "Jacket", "price": 450, "quantity": 3, "image": "Image10" }
     ]
 }
